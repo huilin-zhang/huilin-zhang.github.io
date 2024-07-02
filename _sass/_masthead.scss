@@ -41,7 +41,7 @@
   justify-content: flex-end; /* Aligns the items to the right */
   padding: 0; /* Removes default padding */
   margin: 0; /* Removes default margin */
-  
+
   ul {
     margin: 0;
     padding: 0;
@@ -49,6 +49,7 @@
     display: flex;
     justify-content: flex-end;
     list-style-type: none;
+    width: 100%; /* Ensures the ul takes full width */
   }
 }
 
