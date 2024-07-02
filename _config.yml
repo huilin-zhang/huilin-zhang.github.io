@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "" #show in the left of navigation bar and the web tab
 title_separator          : "" #show in the web tab
 name                     : &name "Your name"
 description              : &description "personal description"
