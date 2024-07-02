@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : ""
-title_separator          : "-Huilin Zhang" #show in the web tab
+title_separator          : "" #show in the web tab
 name                     : &name "Your name"
 description              : &description "personal description"
 url                      : https://huilin-zhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
