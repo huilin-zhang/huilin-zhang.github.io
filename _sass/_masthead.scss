@@ -44,8 +44,8 @@
 
   ul {
     margin: 0;
-    padding-left: 0;
-    // clear: both;
+    padding: 0;
+    clear: right;
     display: flex;
     justify-content: flex-end;
     list-style-type: none;
