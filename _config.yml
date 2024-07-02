@@ -8,9 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Huilin Zhang"
+nav_title                : "Navigation Bar Title"
+web_title                : "Web Tab Title"
+title                    : ""
 title_separator          : "-"
-name                     : &name "Huilin Zhang"
+name                     : &name "Your name"
 description              : &description "personal description"
 url                      : https://huilin-zhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
