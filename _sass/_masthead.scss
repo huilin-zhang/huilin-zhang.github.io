@@ -38,7 +38,7 @@
 
 .masthead__menu {
   display: flex;
-  justify-content: flex-end; /* Aligns the items to the right */
+  // justify-content: flex-end; /* Aligns the items to the right */
   padding: 0; /* Removes default padding */
   margin: 0; /* Removes default margin */
 
@@ -49,7 +49,6 @@
     display: flex;
     justify-content: flex-end;
     list-style-type: none;
-    width: 100%; /* Ensures the ul takes full width */
   }
 }
 
