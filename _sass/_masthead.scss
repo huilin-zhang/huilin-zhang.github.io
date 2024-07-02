@@ -37,7 +37,11 @@
 }
 
 .masthead__menu {
-
+  display: flex;
+  justify-content: flex-end; /* Aligns the items to the right */
+  padding: 0; /* Removes default padding */
+  margin: 0; /* Removes default margin */
+  
   ul {
     margin: 0;
     padding: 0;
@@ -54,7 +58,7 @@
   white-space: nowrap;
 
   &--lg {
-    padding-right: 2em;
+    padding-right: 5em;
     padding-left: 1.5em;
     font-weight: 700;
   }
