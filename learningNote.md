@@ -44,8 +44,7 @@
 </button>
 
 # Add a new page named Misc
-1.add the page in  _config.yml- default and collection
-2._config.yml-default define the layout
-2.create a file named misc edit markdown file
-4.change _layout/
-<!-- 3._pages/misc.html edit feature -->
+1.in _data/navigation.yml add   
+   - title: "Misc."
+    url: /misc/
+2.in _pages/, add misc.md, layout setting similar to cv
