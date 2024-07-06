@@ -11,9 +11,9 @@ main:
 
   - title: "Misc."
     url: /misc/
-    children:
-      - title: "Audiobook"
-        url: /misc/#audiobook
+    # children:
+    #   - title: "Audiobook"
+    #     url: /misc/#audiobook
       # - title: "Title 1"
       #   url: "/misc/#title1"
       # - title: "Title 2"
