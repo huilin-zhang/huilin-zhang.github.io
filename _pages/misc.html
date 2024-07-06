@@ -1,6 +1,6 @@
 ---
-layout: archive
-# <!-- title: "CV" -->
+<!-- layout: archive -->
+ <!-- title: "CV" -->
 permalink: /misc/
 author_profile: false
 redirect_from:
@@ -9,26 +9,45 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- Audiobook
-====== -->
-<!-- <img src='/images/audiobook/500x300.jpg'> <img src='/images/audiobook/500x300.jpg'> -->
-<!-- | ![Image 1](/images/audiobook/fire.jpg) | ![Image 2](/images/audiobook/dog.jpg) | ![Image 3](/images/audiobook/molly.jpg) | ![Image 4](/images/audiobook/molly-guest.jpg) |
-|----------------------------------|----------------------------------|----------------------------------|----------------------------------|
-| ![Image 5](/images/audiobook/murderadv.jpg) | ![Image 6](/images/audiobook/turtle.jpg) | ![Image 7](/images/audiobook/wrinkleintime.jpg) | |
-| ![Image 8](/images/audiobook/carryon.jpg) | ![Image 9](/images/audiobook/hugo.jpg) | ![Image 10](/images/audiobook/tress.jpg) | ![Image 11](/images/audiobook/sea.jpg) | |
-| ![Image 12](/images/audiobook/unseelie.jpg) | ![Image 13](/images/audiobook/magicbake.jpg) | ![Image 14](/images/audiobook/firekeeper.jpg) | | -->
-
-<!-- | <img src="/images/audiobook/fire.jpg" width="25%"/> | <img src="/images/audiobook/dog.jpg" width="25%"/> | <img src="/images/audiobook/molly.jpg" width="25%"/> | <img src="/images/audiobook/molly-guest.jpg" width="25%"/> |
-|----------------------------------------------------|----------------------------------------------------|------------------------------------------------------|--------------------------------------------------------|
-| <img src="/images/audiobook/murderadv.jpg" width="33%"/> | <img src="/images/audiobook/turtle.jpg" width="33%"/> | <img src="/images/audiobook/wrinkleintime.jpg" width="33%"/> | |
-| <img src="/images/audiobook/carryon.jpg" width="25%"/> | <img src="/images/audiobook/hugo.jpg" width="25%"/> | <img src="/images/audiobook/tress.jpg" width="25%"/> | <img src="/images/audiobook/sea.jpg" width="25%"/> |
-| <img src="/images/audiobook/unseelie.jpg" width="33%"/> | <img src="/images/audiobook/magicbake.jpg" width="33%"/> | <img src="/images/audiobook/firekeeper.jpg" width="33%"/> | | -->
-
-
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gallery Page with Navigator</title> -->
 <style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  .navigator {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    z-index: 1000;
+  }
+  .navigator a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+  }
+  .navigator a:hover {
+    text-decoration: underline;
+  }
+  .content {
+    margin-top: 80px; /* To avoid overlapping with the fixed navigator */
+    padding: 20px;
+  }
   .gallery-container {
     width: 80%;
     margin: auto;
+    margin-top: 40px;
   }
   .gallery {
     display: flex;
@@ -42,44 +61,67 @@ redirect_from:
     width: 100%;
   }
   .gallery .row-4 img {
-    width: 25%;
+    width: calc(25% - 10px);
   }
   .gallery .row-3 img {
-    width: 33.33%;
+    width: calc(33.33% - 10px);
   }
 </style>
+</head>
+<body>
 
-<h1>
-  Audiobook
-</h1>
-<p>
-  I enjoy meeting lovely/charming characters and appreciate authors' ideas and narrators' acting.<br/>
-</p>
+<nav class="navigator">
+  <a href="#title1">Title 1</a>
+  <a href="#title2">Title 2</a>
+  <a href="#audiobook">Audiobook</a>
+  <a href="#title4">Title 4</a>
+</nav>
 
-<div class="gallery-container">
-<div class="gallery">
-  <div class="row row-4">
-    <img src="/images/audiobook/fire.jpg" alt="Image 1">
-    <img src="/images/audiobook/dog.jpg" alt="Image 2">
-    <img src="/images/audiobook/molly.jpg" alt="Image 3">
-    <img src="/images/audiobook/molly-guest.JPG" alt="Image 4">
-  </div>
-  <div class="row row-3">
-    <img src="/images/audiobook/murderadv.JPG" alt="Image 5">
-    <img src="/images/audiobook/turtle.JPG" alt="Image 6">
-    <img src="/images/audiobook/wrinkleintime.jpg" alt="Image 7">
-  </div>
-  <div class="row row-4">
-    <img src="/images/audiobook/carryon.jpg" alt="Image 8">
-    <img src="/images/audiobook/hugo.jpg" alt="Image 9">
-    <img src="/images/audiobook/tress.JPG" alt="Image 10">
-    <img src="/images/audiobook/sea.JPG" alt="Image 11">
-  </div>
-  <div class="row row-3">
-    <img src="/images/audiobook/unseelie.JPG" alt="Image 12">
-    <img src="/images/audiobook/magicbake.jpg" alt="Image 13">
-    <img src="/images/audiobook/firekeeper.jpg" alt="Image 14">
-  </div>
-</div>
+<div class="content" id="title1">
+  <h2>Title 1</h2>
+  <p>This is the content for section 1.</p>
 </div>
 
+<div class="content" id="title2">
+  <h2>Title 2</h2>
+  <p>This is the content for section 2.</p>
+</div>
+
+<div class="content" id="audiobook">
+  <h1>Audiobook</h1>
+  <p>I enjoy meeting lovely/charming characters and appreciate authors' ideas and narrators' acting.</p>
+  <div class="gallery-container">
+    <div class="gallery">
+      <div class="row row-4">
+        <img src="/images/audiobook/fire.jpg" alt="Image 1">
+        <img src="/images/audiobook/dog.jpg" alt="Image 2">
+        <img src="/images/audiobook/molly.jpg" alt="Image 3">
+        <img src="/images/audiobook/molly-guest.JPG" alt="Image 4">
+      </div>
+      <div class="row row-3">
+        <img src="/images/audiobook/murderadv.JPG" alt="Image 5">
+        <img src="/images/audiobook/turtle.JPG" alt="Image 6">
+        <img src="/images/audiobook/wrinkleintime.jpg" alt="Image 7">
+      </div>
+      <div class="row row-4">
+        <img src="/images/audiobook/carryon.jpg" alt="Image 8">
+        <img src="/images/audiobook/hugo.jpg" alt="Image 9">
+        <img src="/images/audiobook/tress.JPG" alt="Image 10">
+        <img src="/images/audiobook/sea.JPG" alt="Image 11">
+      </div>
+      <div class="row row-3">
+        <img src="/images/audiobook/unseelie.JPG" alt="Image 12">
+        <img src="/images/audiobook/magicbake.jpg" alt="Image 13">
+        <img src="/images/audiobook/firekeeper.jpg" alt="Image 14">
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="content" id="title4">
+  <h2>Title 4</h2>
+  <p>This is the content for section 4.</p>
+</div>
+
+</body>
+</html>
