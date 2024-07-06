@@ -13,7 +13,7 @@ main:
     url: "/misc/"
     children:
       - title: "Audiobook"
-        url: "/misc/#Audiobook"
+        url: "/misc/#audiobook"
       - title: "Title 1"
         url: "/misc/#title1"
       - title: "Title 2"
