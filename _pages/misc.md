@@ -1,9 +1,13 @@
 ---
-# title: "Audiobook"
-# excerpt: "I enjoy meeting lovely/charming characters and appreciate authors' ideas and narrators' acting.<br/>
-# <img src='/images/500x300.png'>"
-collection: misc
+layout: archive
+<!-- title: "CV" -->
+permalink: /misc/
+author_profile: false
+redirect_from:
+  - /misc
 ---
+
+{% include base_path %}
 
 Audiobook
 ======
