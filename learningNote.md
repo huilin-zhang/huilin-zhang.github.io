@@ -47,4 +47,4 @@
 1.in _data/navigation.yml add   
    - title: "Misc."
     url: /misc/
-2.in _pages/, add misc.md, layout setting similar to cv
+2.in _pages/, add misc.md, layout setting similar to cv.html
