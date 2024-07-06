@@ -1,6 +1,6 @@
 ---
 layout: archive
-<!-- title: "CV" -->
+# <!-- title: "CV" -->
 permalink: /misc/
 author_profile: false
 redirect_from:
