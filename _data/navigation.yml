@@ -11,15 +11,15 @@ main:
 
   - title: "Misc."
     url: "/misc/"
-    children:
-      - title: "Audiobook"
-        url: "/misc/#audiobook"
-      - title: "Title 1"
-        url: "/misc/#title1"
-      - title: "Title 2"
-        url: "/misc/#title2"
-      - title: "Title 4"
-        url: "/misc/#title4"
+    # children:
+    #   - title: "Audiobook"
+    #     url: "/misc/#audiobook"
+    #   - title: "Title 1"
+    #     url: "/misc/#title1"
+    #   - title: "Title 2"
+    #     url: "/misc/#title2"
+    #   - title: "Title 4"
+    #     url: "/misc/#title4"
 
 
   # - title: "Publications"
