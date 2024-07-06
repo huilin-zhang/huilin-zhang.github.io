@@ -1,3 +1,4 @@
+# Basics for html
 <h1 id="title">
     html标签：
 </h1>
@@ -41,3 +42,8 @@
 <button class="subscribe-button">订阅
 
 </button>
+
+# Add a new page named Misc
+1.add the page in  _config.yml- default and collection
+2.create a file with the same name as the page, edit markdown file
+3._pages/misc.html edit feature
