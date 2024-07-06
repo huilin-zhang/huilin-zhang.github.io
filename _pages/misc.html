@@ -1,81 +1,14 @@
 ---
-<!-- layout: archive -->
- <!-- title: "CV" -->
+<!-- layout: default -->
+<!-- title: "Gallery Page with Navigator" -->
 permalink: /misc/
 author_profile: false
 redirect_from:
   - /misc
+sidebar:
+  title: "Miscellaneous"
+nav: main
 ---
-
-{% include base_path %}
-
-<!-- <!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Gallery Page with Navigator</title> -->
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-  }
-  .navigator {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    background-color: #333;
-    color: white;
-    text-align: center;
-    padding: 10px 0;
-    z-index: 1000;
-  }
-  .navigator a {
-    color: white;
-    margin: 0 15px;
-    text-decoration: none;
-  }
-  .navigator a:hover {
-    text-decoration: underline;
-  }
-  .content {
-    margin-top: 80px; /* To avoid overlapping with the fixed navigator */
-    padding: 20px;
-  }
-  .gallery-container {
-    width: 80%;
-    margin: auto;
-    margin-top: 40px;
-  }
-  .gallery {
-    display: flex;
-    flex-wrap: wrap;
-  }
-  .gallery img {
-    margin: 5px;
-  }
-  .gallery .row {
-    display: flex;
-    width: 100%;
-  }
-  .gallery .row-4 img {
-    width: calc(25% - 10px);
-  }
-  .gallery .row-3 img {
-    width: calc(33.33% - 10px);
-  }
-</style>
-</head>
-<body>
-
-<nav class="navigator">
-  <a href="#title1">Title 1</a>
-  <a href="#title2">Title 2</a>
-  <a href="#audiobook">Audiobook</a>
-  <a href="#title4">Title 4</a>
-</nav>
 
 <div class="content" id="title1">
   <h2>Title 1</h2>
@@ -122,6 +55,3 @@ redirect_from:
   <h2>Title 4</h2>
   <p>This is the content for section 4.</p>
 </div>
-
-</body>
-</html>
