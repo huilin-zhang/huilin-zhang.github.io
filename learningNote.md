@@ -48,3 +48,7 @@
    - title: "Misc."
     url: /misc/
 2.in _pages/, add misc.md, layout setting similar to cv
+
+# edit the web:
+edit _pages and _config.yml
+

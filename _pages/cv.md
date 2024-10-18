@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: false
 redirect_from:
@@ -8,14 +8,16 @@ redirect_from:
 ---
 
 {% include base_path %}
+<!-- * [CV](http://academicpages.github.io/files/slides1.pdf)
+* [Resume](http://academicpages.github.io/files/slides1.pdf) -->
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D, M.S. in Economics, Purdue University, 2025 (expected)
+* M.A. in Economics, Sun Yat-sen University, 2019
+* B.A. in Economics, Wuhan University, 2017
 
-Work experience
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -30,18 +32,34 @@ Work experience
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+  * Supervisor: Professor Git -->
+
 Skills
 ======
-* Skill 1
-* Skill 2
+* Software: MATLAB, Stata, Python, R, SQL
+* Technical: Causal Inference, Structural Modeling, Machine Learning, Data
+Analysis 
+* Languages: Mandarin, English
+
+
+Awards
+======
+* Daniels School of Business Doctoral Research Funds, Purdue University 2024
+* Business Doctoral Student Association Research Symposium Award, Purdue University 2023
+* Krannert Certificate for Outstanding Teaching, Purdue University 2021
+
+
+<!-- * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * Sub-skill 2.3 -->
+<!-- * Skill 3 -->
 
-Publications
+<!-- Certificates
+======
+Machine learning -->
+
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -61,4 +79,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

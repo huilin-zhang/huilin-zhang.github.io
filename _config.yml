@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "" #show in the left of navigation bar and the web tab
+title                    : "Huilin Zhang" #show in the left of navigation bar and the web tab
 title_separator          : "" #show in the web tab
-name                     : &name "Your name"
+name                     : &name "Huilin Zhang"
 description              : &description "personal description"
-url                      : https://huilin-zhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+# url                      : https://huilin-zhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "huilin-zhang.github.io"
 
@@ -21,14 +21,15 @@ repository               : "huilin-zhang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : profile.PNG
   name             : "Huilin Zhang"
   pronouns         : # example: "she/her"  
   bio              : ""
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  location         : "IN, U.S."
+  employer         : "Purdue University"
+  # uri              : "https://huilin-zhang.github.io"
+  # email            : "imzhanghl@outlook.com" 
+  email            : "zhan3760@purdue.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

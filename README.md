@@ -38,6 +38,11 @@ When you are initially working your website, it is very useful to be able to pre
 
 If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
 
+# local running commend (in cmd)
+<!-- # cd /D D:\Cloud\OneDrive - purdue.edu\Research\myWebsite\huilin-zhang.github.io
+ bundle install #for the first time
+ bundle exec jekyll serve -l -H localhost -->
+
 # Maintenance
 
 Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
