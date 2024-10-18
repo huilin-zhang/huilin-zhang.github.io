@@ -12,7 +12,7 @@ title                    : "Huilin Zhang" #show in the left of navigation bar an
 title_separator          : "" #show in the web tab
 name                     : &name "Huilin Zhang"
 description              : &description "personal description"
-# url                      : https://huilin-zhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://huilin-zhang.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "huilin-zhang.github.io"
 
@@ -27,7 +27,7 @@ author:
   bio              : ""
   location         : "IN, U.S."
   employer         : "Purdue University"
-  # uri              : "https://huilin-zhang.github.io"
+  uri              : "https://huilin-zhang.github.io"
   # email            : "imzhanghl@outlook.com" 
   email            : "zhan3760@purdue.edu" 
 
