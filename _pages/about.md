@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I’m Huilin Zhang, a Ph.D. candidate in economics at Purdue University. I am on the 2024-2025 job market. My research focuses on Urban Economics, Public Economics, Labor Economics and International Trade. I'm interested in technology improvement, inequality, climate policies, and energy transition.
+Welcome to my website! I’m Huilin Zhang, a Ph.D. candidate in economics at Purdue University. I am on the 2024-2025 job market. My research focuses on Urban Economics, Spatial Economics, International Trade and Applied Microeconomics. I'm interested in technology improvement, inequality, climate policies, and energy transition.
 
 Job Market Paper
 ======
