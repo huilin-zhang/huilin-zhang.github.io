@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-* [CV](http://academicpages.github.io/files/CV.pdf)
-* [Resume](http://academicpages.github.io/files/Resume.pdf)
+* [CV](http://huilin-zhang.github.io/files/CV.pdf)
+* [Resume](http://huilin-zhang.github.io/files/Resume.pdf)
 
 Education
 ======
