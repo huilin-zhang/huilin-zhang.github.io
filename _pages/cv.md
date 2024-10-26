@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-<!-- * [CV](http://academicpages.github.io/files/slides1.pdf)
-* [Resume](http://academicpages.github.io/files/slides1.pdf) -->
+<!-- {% include base_path %} -->
+* [CV](http://academicpages.github.io/files/CV.pdf)
+* [Resume](http://academicpages.github.io/files/Resume.pdf)
 
 Education
 ======
