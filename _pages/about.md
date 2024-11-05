@@ -17,5 +17,5 @@ Productivity Externality of Working from Home: Welfare and Policy Implications
 
 Works in Progress
 ======
-1. "How Globalization Changes the Level and Structure of Executive Compensation" with David Hummels, Jaerim Choi, and Jakob R. Munch
+1. "How Globalization Changes the Level and Structure of Executive Compensation" with Jaerim Choi, David Hummels, and Jakob R. Munch
 2. "The Production of Human Capital in A System of Universities" with David Hummels
