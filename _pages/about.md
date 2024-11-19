@@ -11,7 +11,7 @@ Welcome to my website! I’m Huilin Zhang, a Ph.D. candidate in economics at Pur
 
 Job Market Paper
 ======
-Productivity Externality of Working from Home: Welfare and Policy Implications
+The Productivity Externality of Working from Home: Welfare and Policy Implications
 
 
 
