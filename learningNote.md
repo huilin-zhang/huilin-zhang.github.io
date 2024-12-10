@@ -52,3 +52,8 @@
 # edit the web:
 edit _pages and _config.yml
 
+# change layout
+eg:
+_sass/_page.scss 
+add  text-align: justify;
+

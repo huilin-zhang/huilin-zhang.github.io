@@ -41,7 +41,9 @@ If you are running on Linux it may be necessary to install some additional depen
 # local running commend (in cmd)
 <!-- # cd /D D:\Cloud\OneDrive - purdue.edu\Research\myWebsite\huilin-zhang.github.io
  bundle install #for the first time
- bundle exec jekyll serve -l -H localhost -->
+ bundle exec jekyll serve -l -H localhost 
+ check localhost:4000
+ -->
 
 # Maintenance
 
