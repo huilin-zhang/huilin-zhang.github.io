@@ -16,7 +16,7 @@ I study how the socially optimal level of onsite work differs from the market eq
 
 Works in Progress
 ======
-**“How Globalization Changes the Level and Structure of Executive Compensation” （with Jaerim Choi, David Hummels, and Jakob R. Munch）** <br>
+**“How Globalization Changes the Level and Structure of Executive Compensation” （with David Hummels, and Jakob R. Munch）** <br>
 We combine the principal-agent model with unobservable effort and the assignment model with heterogeneous ability. The board uses compensation to incentivize the CEO under trade shocks that are either interactive or exogenous to the CEO’s effort. CEO compensation consists of a fixed payment and a share of firm value. The increase in firm value from a positive interactive shock grows with greater CEO effort, while the change in firm value from an exogenous shock remains unchanged regardless of the CEO effort. The model predicts that globalization changes CEO compensation through scale, volatility, and magnification channels. 
 Using Danish matched worker-firm data, we find empirical results supporting these channels: (1) Exporting and offshoring increase the level of CEO compensation by increasing firm size and value; (2) The share of firm value paid to CEOs increases with the volatility of interactive shocks induced by global markets but decreases with the volatility of exogenous shocks; and (3) Higher-ability CEOs generate greater sales increases under positive demand shocks, magnifying the effect of interactive shocks.
 
