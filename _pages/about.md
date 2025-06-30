@@ -11,8 +11,7 @@ Welcome to my website! I am Huilin Zhang, a Ph.D. candidate in economics at Purd
 
 Working Papers
 ======
-**Productivity Externalities of Working from Home: Welfare and Policy Implications”** [[PDF]]
-(TelecommutingPaper.pdf)<br>
+**Productivity Externalities of Working from Home: Welfare and Policy Implications”** [[PDF]](TelecommutingPaper.pdf)<br>
 <!-- (https://www.dropbox.com/scl/fi/nl5pzfi4qhdmao33pgv74/TelecommutingPaper.pdf?rlkey=ux80ju16aprhcw6jh3zg3sx5x&dl=0) -->
 I study how the socially optimal level of onsite work differs from the market equilibrium. I develop a general equilibrium model in which workers decide how much to work onsite and work from home. Productivity spillovers can occur within and between onsite and remote workers. The model predicts that the balance between onsite and remote productivity spillover effects affects the gap between the socially optimal and the market equilibrium level of onsite work. I measure these spillovers by matching the model to U.S. survey data from 2022 to 2024 at the city-sector-work mode level. I find that, on average, a social planner could improve welfare by 2% by increasing hybrid workers' share of onsite time by 3% and increasing the number of fully onsite workers by 2%. This could be accomplished by offering a subsidy for onsite work equal to 11% of hybrid workers' gross income. Without the remote productivity spillovers, a similar level of welfare improvement would require larger changes: hybrid workers' share of onsite time would need to increase by 5%, and the number of fully onsite workers would need to increase by 3%. The subsidy would cost 15% of hybrid workers' gross income.
 
