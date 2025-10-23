@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am Huilin Zhang, a Ph.D. in economics at Purdue University. My research focuses on Urban Economics, Spatial Economics, International Trade and Applied Microeconomics. My current projects use structural models and reduced-form methods to explore topics related to the labor market, including (1) productivity externalities and optimal policies, (2) globalization and CEO compensation, and (3) student-university matching and human capital production.
+Welcome to my website! I am a postdoctoral researcher in economics at Purdue University. My research focuses on Urban Economics, Spatial Economics, International Trade and Applied Microeconomics. My current projects use structural models and reduced-form methods to explore topics related to the labor market, including (1) productivity externalities and optimal policies, (2) globalization and CEO compensation, and (3) student-university matching and human capital production.
 
 Working Papers
 ======
