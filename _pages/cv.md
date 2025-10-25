@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D, M.S. in Economics, Purdue University, 2025 (expected)
+* Ph.D, M.S. in Economics, Purdue University, 2025 
 * M.A. in Economics, Sun Yat-sen University, 2019
 * B.A. in Economics, Wuhan University, 2017
 
