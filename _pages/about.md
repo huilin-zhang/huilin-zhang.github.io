@@ -12,7 +12,7 @@ Welcome to my website! I am a postdoctoral researcher in economics at Purdue Uni
 Working Papers
 ======
 **Productivity Externalities of Working from Home: Welfare and Policy Implications** [[PDF]](files/TelecommutingPaper.pdf)<br>
-I study the socially optimal mix of onsite work and remote work. I develop a model in which workers choose how much to work onsite versus from home, without internalizing the productivity spillovers that occur within and across onsite and remote workers. I measure these spillovers using post-pandemic U.S. survey data at the city-sector-work mode level. Matching the model to these data, I find that a social planner could, on average, improve social welfare by encouraging more onsite workers but encouraging hybrid workers to spend more time working from home. Remote productivity spillovers lower the cost of achieving the social optimum.  
+I study the socially optimal mix of onsite work and remote work. I develop a model in which workers choose how much to work onsite versus from home, without internalizing the productivity spillovers that occur within and between onsite and remote workers. I measure these spillovers using post-pandemic U.S. survey data at the city-sector-work mode level. Matching the model to these data, I find that a social planner could, on average, improve social welfare by encouraging more onsite workers but encouraging hybrid workers to spend more time working from home. Remote productivity spillovers lower the cost of achieving the social optimum.  
 
 
 **Using Global Shocks to Understand the Level and Structure of Executive Compensation（with David Hummels, and Jakob R. Munch）** [[PDF]](https://www.nber.org/system/files/working_papers/w35004/w35004.pdf) <br>
