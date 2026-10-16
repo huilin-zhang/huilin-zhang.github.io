@@ -22,11 +22,5 @@ Work in Progress
 ======
 **Why Are Coaches Paid More Than Presidents? A View from Executive Compensation Theory (with David Hummels and Zachary Knepper)**
 
-- Assignment model with tournament prizes and unobservable coaching ability.
-- Test model predictions using data on salaries, turnover, college expenditures, and prediction markets.
-
 **Optimal Subsidy for Electric Vehicle in California (with Weihua Zhao)**
-
-- Quantitative spatial model with regional mobility and gas vs. EV car choice driven by transport costs.
-- Policy counterfactual analysis on the effect of subsidies for EV purchases and for charging networks.
 
