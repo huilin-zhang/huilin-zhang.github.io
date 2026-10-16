@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am a postdoctoral researcher in economics at Purdue University. My research focuses on Urban Economics, Spatial Economics, International Trade and Applied Microeconomics. My current projects use structural models and reduced-form methods to explore topics related to the labor market, including (1) productivity externalities and optimal policies, (2) globalization and CEO compensation, and (3) student-university matching and human capital production.
+Welcome to my website! I am a postdoctoral researcher in economics at Purdue University. My research focuses on Urban/Spatial Economics, International Trade, and Applied Microeconomics. My current projects use structural models and reduced-form methods to explore topics related to working from home, executive compensation, and electric vehicle subsidies.
 
 Working Papers
 ======
@@ -20,6 +20,13 @@ We build a model of CEO compensation in which trade shocks interact with CEO eff
 
 Work in Progress
 ======
-**The Production of Human Capital in A System of Universities (with David Hummels)** <br>
-We build a general equilibrium model to answer the following questions: (1) How do shocks—such as increasing manufacturing wages and technological changes—affect the number and quality of colleges and the distribution of human capital in society? (2) How do changes in borrowing costs affect intergenerational human capital formation? The model features matching between heterogeneous students and universities. Students receive higher human capital from a good match between their ability and university quality.
+**Why Are Coaches Paid More Than Presidents? A View from Executive Compensation Theory (with David Hummels and Zachary Knepper)**
+
+- Assignment model with tournament prizes and unobservable coaching ability.
+- Test model predictions using data on salaries, turnover, college expenditures, and prediction markets.
+
+**Optimal Subsidy for Electric Vehicle in California (with Weihua Zhao)**
+
+- Quantitative spatial model with regional mobility and gas vs. EV car choice driven by transport costs.
+- Policy counterfactual analysis on the effect of subsidies for EV purchases and for charging networks.
 
