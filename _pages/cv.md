@@ -42,11 +42,13 @@ Analysis
 * Languages: Mandarin, English
 
 
-Awards
+Presentations
 ======
-* Daniels School of Business Doctoral Research Funds, Purdue University 2024
-* Business Doctoral Student Association Research Symposium Award, Purdue University 2023
-* Krannert Certificate for Outstanding Teaching, Purdue University 2021
+* 2027: American Economic Association (AEA) Annual Meeting (Poster Section, scheduled)
+* 2026: Summer Meeting in Urban Economics (SMUE), Chinese Economists Society Annual Conference (CES), Annual China Financial Research Conference (CFRC), European Meeting of the Urban Economics Association (UEA), Waseda University WINPEC Seminars
+* 2025: Midwest International Trade & Theory Conference, Remote Work Conference, Annual Meetings of the Midwest Economics Association (MEA)
+* 2024: National Association for Business Economics (NABE) Tech Economics Conference
+* 2023: Business Doctoral Student Association Research Symposium
 
 
 <!-- * Skill 2
